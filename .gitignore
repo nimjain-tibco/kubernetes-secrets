@@ -1,3 +1,5 @@
 .gitsecret/keys/random_seed
 !*.secret
-values-dev.yaml
+values/values-prod.yaml
+
+values/values-dev.yaml
